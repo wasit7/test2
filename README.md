@@ -5,4 +5,5 @@
 ```python
 Import numpy as np
 x= np.ones(10)
+y=np.mean(x) 
 ```
